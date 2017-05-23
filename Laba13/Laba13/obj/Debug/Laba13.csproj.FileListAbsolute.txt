@@ -1,0 +1,17 @@
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\Laba13.exe.config
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\Laba13.exe
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\Laba13.pdb
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\EntityFramework.dll
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\EntityFramework.SqlServer.dll
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\EntityFramework.xml
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\bin\Debug\EntityFramework.SqlServer.xml
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13.csprojResolveAssemblyReference.cache
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\View\MainWindow.g.cs
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13_MarkupCompile.cache
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13_MarkupCompile.lref
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\View\MainWindow.baml
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13.g.resources
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13.Properties.Resources.resources
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13.csproj.GenerateResource.Cache
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13.exe
+D:\Univer\4 семестр\С#\Labs\Laba13\Laba13\obj\Debug\Laba13.pdb
